@@ -18,7 +18,7 @@ import asyncio
 from keep_alive import keep_alive
 import requests
 cid = 946811847456206908
-token = "OTQ2ODExMDk1NTg1Mjc1OTY0.YhkIvg.K3umRvgomfSQa2IS9Boo4SClSwo"
+token = ""
 editing = {
 
 }
